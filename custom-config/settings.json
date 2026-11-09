@@ -1,0 +1,218 @@
+{
+  "soloist_enabled": false,
+  "device_name": "Foxglovezinho",
+  "bitrate": 320,
+  "normalisation": false,
+  "autoplay": true,
+  "gapless": true,
+  "audio_device": null,
+  "audio_buffer_ms": 100,
+  "audio_cache": true,
+  "audio_cache_mb": 1024,
+  "local_files_folder": null,
+  "theme": "system",
+  "language": "system",
+  "custom_theme": "Tokyo Night.json",
+  "custom_theme_cache": {
+    "filename": "Tokyo Night.json",
+    "palette": {
+      "dark": true,
+      "window": [
+        26,
+        27,
+        38,
+        255
+      ],
+      "panel": [
+        30,
+        32,
+        43,
+        255
+      ],
+      "surface": [
+        37,
+        39,
+        52,
+        255
+      ],
+      "surface_hover": [
+        43,
+        45,
+        59,
+        255
+      ],
+      "surface_active": [
+        52,
+        54,
+        70,
+        255
+      ],
+      "outline": [
+        55,
+        57,
+        73,
+        255
+      ],
+      "text": [
+        169,
+        177,
+        214,
+        255
+      ],
+      "secondary": [
+        126,
+        132,
+        161,
+        255
+      ],
+      "dim": [
+        98,
+        102,
+        126,
+        255
+      ],
+      "accent": [
+        122,
+        162,
+        247,
+        255
+      ],
+      "accent_hover": [
+        129,
+        164,
+        242,
+        255
+      ],
+      "on_accent": [
+        26,
+        27,
+        38,
+        255
+      ],
+      "danger": [
+        247,
+        118,
+        142,
+        255
+      ],
+      "warning": [
+        224,
+        175,
+        104,
+        255
+      ],
+      "overlay": [
+        37,
+        39,
+        52,
+        255
+      ],
+      "shadow": [
+        0,
+        0,
+        0,
+        140
+      ],
+      "tint": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "home": {
+    "made_for_you": {
+      "visible": true
+    },
+    "recommendations": {
+      "visible": true
+    }
+  },
+  "accent_from_art": true,
+  "player_bar_vis": "spectrum",
+  "player_bar_vis_click": true,
+  "visualizer_fps": 60,
+  "volume": 24903,
+  "sidebar_visible": true,
+  "art_expanded": false,
+  "sidebar_compact": false,
+  "sidebar_grid": false,
+  "sidebar_width": 287.125,
+  "lyrics_width": 360.0,
+  "queue_width": 360.0,
+  "tracklist_compact": false,
+  "middle_click_autoscroll": false,
+  "search_history": [
+    "carlos ocean",
+    "lucas ocean",
+    "kanye",
+    "count me out",
+    "count e",
+    "Charlie Cunningham",
+    "dexter"
+  ],
+  "show_shortcut_hints": true,
+  "web_client_id": null,
+  "personal_app_nudge_at": null,
+  "personal_app_intro_seen": true,
+  "slow_app_banner": {
+    "shown_at": "2026-11-04T20:59:32.344488338Z",
+    "dismissals": 0
+  },
+  "playback_authorized": false,
+  "keep_playing_in_background": true,
+  "tray_icon": "colour",
+  "mac_notch_widget": false,
+  "mac_show_in_dock": true,
+  "check_for_updates": true,
+  "download_updates_automatically": false,
+  "pinned_contexts": [],
+  "liked_songs_pinned": true,
+  "sidebar_order": [],
+  "library_sort": {},
+  "library_by_you": false,
+  "zoom": 1.0,
+  "winamp_window": false,
+  "winamp_show_taskbar": true,
+  "custom_titlebar": false,
+  "skin": "Winamp3_Classified_v5.5.wsz",
+  "random_skin": false,
+  "skin_scale": null,
+  "winamp_on_top": false,
+  "vis": "bars",
+  "playlist_open": true,
+  "playlist_height": 174,
+  "eq_open": false,
+  "eq_on": true,
+  "eq_preamp_db": 0.609375,
+  "eq_bands_db": [
+    8.8,
+    7.2,
+    5.6,
+    3.2,
+    0.8,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "eq_user_presets": [],
+  "balance": 0.0,
+  "mono": false,
+  "playlist_shaded": false,
+  "eq_shaded": false,
+  "winamp_shaded": false,
+  "milkdrop_open": true,
+  "milkdrop_seconds": 10,
+  "milkdrop_fps": 165,
+  "milkdrop_screen_hz": 165,
+  "milkdrop_scale": 1,
+  "milkdrop_fullscreen": false,
+  "milkdrop_panel_height": 232,
+  "milkdrop_size": [
+    640.0,
+    480.0
+  ]
+}
